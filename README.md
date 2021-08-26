@@ -1,4 +1,4 @@
-# fuckos
+# FuckOS Forum FontEnd
 
 ## Project setup
 ```
